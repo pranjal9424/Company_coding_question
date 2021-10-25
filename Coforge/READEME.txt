@@ -1,0 +1,16 @@
+Q. 1:	Write a program that will take a string as input. The program will then determine whether each left parenthesis "(has a matching right parenthesis "). If so, the program will print 0 else the program will print 1.
+			
+			input:-	HELLO AND (WELCOME (TO THE) TCEA (CONTEST)TODAY) IS (SATURDAY())
+			
+			
+			output:-	0
+			
+Q. 2:	Given a function isSumPossible which takes in the number of elements in an array, an integer N, and the input array. The function should return 1, if there exists a pair of numbers in the array whose sum adds to N, else return 0. The array is NOT necessarily in sorted order. Your task is to write the body of the isSumPossible function.
+		
+			input:-		10
+						66
+						{11,18,21,28,31,38,40,55,60,62}
+			
+			output:-	1
+			
+			Explanation:- 28+38=66
